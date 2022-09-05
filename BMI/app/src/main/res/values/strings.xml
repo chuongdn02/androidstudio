@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaiTap1</string>
+    <string name="high">Chiều cao (m)</string>
+    <string name="wight">Cân Nặng (Kg)</string>
+    <string name="input_high">Nhập chiều cao</string>
+    <string name="input_wieght">Nhập cân nặng</string>
+</resources>
