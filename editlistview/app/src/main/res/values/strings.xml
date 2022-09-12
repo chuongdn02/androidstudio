@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">editlistview</string>
+    <string name="edit">Cập Nhật</string>
+    <string name="add">Thêm</string>
+</resources>
