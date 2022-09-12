@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:id="@+id/rll"
+        android:layout_width="match_parent"
+        android:layout_height= "200dp"
+        android:background="@drawable/banner"
+        >
+
+        <EditText
+            android:id="@+id/txtE"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:hint="Nhập món ăn"
+
+
+            />
+
+        <Button
+
+            android:id="@+id/btnA"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/txtE"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/add" />
+
+        <Button
+            android:id="@+id/btnE"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/txtE"
+            android:layout_alignRight="@+id/btnA"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="-240dp"
+            android:text="@string/edit" />
+    </RelativeLayout>
+<RelativeLayout
+    android:id="@+id/rll2"
+    android:background="@drawable/botimg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/lvProducts"
+        android:layout_width="match_parent"
+        android:layout_height="525dp">
+
+    </ListView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/lvProducts"
+        android:text="Nguyễn Văn Chương - 2050531200114"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:textColor="@color/white"
+
+
+        ></TextView>
+</RelativeLayout>
+
+</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
