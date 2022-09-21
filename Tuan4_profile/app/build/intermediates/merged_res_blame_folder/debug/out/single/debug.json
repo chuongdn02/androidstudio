@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_img.png.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/img.png"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/layout_profile.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/layout/profile.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.exemple.tuan4_profile.app-merged_res-29:/layout_profile.xml.flat",
+        "source": "com.exemple.tuan4_profile.app-main-31:/layout/profile.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_pic.jpeg.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/pic.jpeg"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_backgr.jpeg.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/backgr.jpeg"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_logo.jpeg.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/logo.jpeg"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_or.jpeg.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/or.jpeg"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_twitter.png.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/twitter.png"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_facebook.png.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/facebook.png"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_backg.jpeg.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/backg.jpeg"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/drawable_backg1.png.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/drawable/backg1.png"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-merged_res-29:/layout_register.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.tuan4_profile.app-main-31:/layout/register.xml"
+    }
+]

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/width"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#322F2F"
+            android:layout_marginTop="20dp"
+            >
+
+            <TextView
+                android:id="@+id/txtName"
+                android:layout_width="200dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="220dp"
+                android:layout_marginTop="20dp"
+                android:text="NGUYỄN VĂN CHƯƠNG"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@+id/txtName"
+                android:layout_marginLeft="220dp"
+                android:text="CODER"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:layout_marginTop="10dp"
+                android:textSize="24dp"/>
+
+        </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/CG"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@+id/width"
+                android:layout_marginLeft="240dp"
+                android:layout_marginTop="10dp"
+                android:background="#322F2F">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Career goals"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="22dp" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/rlx"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:layout_below="@+id/CG"
+                android:layout_marginLeft="225dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text=">> Experience and improve myself \n>> Friendly creative environment\n>> Become a professional coder"
+                    android:textSize="12dp" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/txt1"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@+id/rlx"
+                android:layout_marginLeft="240dp"
+                android:layout_marginTop="10dp"
+                android:background="#322F2F"
+                android:text="Academic level"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="22dp" />
+
+            <TextView
+                android:id="@+id/learn"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/txt1"
+                android:layout_marginLeft="225dp"
+                android:layout_marginTop="10dp"
+                android:text=">> Learning IT 9/2020 to 9/2022\n>> Study at University Technology Education"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/txt2"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@+id/learn"
+                android:layout_marginLeft="240dp"
+                android:layout_marginTop="10dp"
+                android:background="#322F2F"
+                android:text="Skill"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="22dp" />
+            <TextView
+                android:id="@+id/skill"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/txt2"
+                android:layout_marginLeft="225dp"
+                android:layout_marginTop="10dp"
+                android:text=">> NetBeans 50%\n>> AndroidStudio 70%\n>> VisualStudio 60%"
+                android:textSize="12dp"/>
+            <TextView
+                android:id="@+id/txt3"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@+id/skill"
+                android:layout_marginLeft="240dp"
+                android:layout_marginTop="10dp"
+                android:background="#322F2F"
+                android:text="Specialization"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="22dp" />
+            <TextView
+                android:id="@+id/sp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/txt3"
+                android:layout_marginLeft="225dp"
+                android:layout_marginTop="10dp"
+                android:text=">> Frontend\n>> Backend\n>> Database"
+                android:textSize="12dp"/>
+            <TextView
+                android:id="@+id/txt4"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@+id/sp"
+                android:layout_marginLeft="240dp"
+                android:layout_marginTop="10dp"
+                android:background="#322F2F"
+                android:text="Soft skills"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="22dp" />
+            <TextView
+                android:id="@+id/ssk"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/txt4"
+                android:layout_marginLeft="225dp"
+                android:layout_marginTop="10dp"
+                android:text=">> TeamsWork\n>> Handle situations"
+                android:textSize="12dp"/>
+
+            <RelativeLayout
+                android:id="@+id/high"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:background="#FFC107">
+
+                <ImageView
+                    android:id="@+id/img"
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/pic" />
+
+                <TextView
+                    android:id="@+id/introducer"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_below="@+id/img"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="20dp"
+                    android:text="Introduce"
+                    android:textSize="28dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/itd"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_below="@+id/introducer"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:text=">> Gender: male\n>> Date of birth: 19/05/2002\n>> Constellation: Taurus"
+
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/inter"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_below="@+id/itd"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="20dp"
+                    android:text="Interests"
+                    android:textSize="28dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/interests"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_below="@+id/inter"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:text=">> Sing\n>> Music\n>> Sport\n>> Guitar\n>> Game\n>> Travel\n>> Cooking"
+
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/con"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_below="@+id/interests"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="20dp"
+                    android:text="Contact"
+                    android:textSize="28dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/contact"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_below="@+id/con"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:text=">> Address: Hòa Nhơn, Hòa Vang, Đà Nẵng\n>> Gmail: Chuongnguyendn02@\ngmail.com\n>> Call: 0777549105"
+
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/exit"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_below="@+id/contact"
+                    android:layout_marginTop="30dp"
+                    android:background="@color/white"
+                    android:text="Exit? click me"
+                    android:textAlignment="center"
+                    android:textColor="#FF5722"
+                    android:textSize="18dp" />
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

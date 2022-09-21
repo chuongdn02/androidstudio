@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/backg1"
+            >
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/logo" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/backgr">
+
+            <TextView
+                android:id="@+id/txtv"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:text="LOGIN NOW"
+                android:textAlignment="center"
+                android:textColor="#E63A3A"
+                android:textSize="28dp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:id="@+id/layout1"
+                android:layout_width="230dp"
+                android:layout_height="50dp"
+                android:layout_below="@+id/txtv"
+                android:layout_centerHorizontal="true">
+
+                <EditText
+                    android:id="@+id/username"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="username"
+                    android:textColor="@color/white"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout2"
+                android:layout_width="230dp"
+                android:layout_height="50dp"
+                android:layout_below="@+id/layout1"
+                android:layout_centerHorizontal="true"
+
+                android:layout_marginTop="22dp">
+
+                <EditText
+
+                    android:id="@+id/pass"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="password"
+                    android:password="true"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/forgot"
+                android:layout_width="255dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/layout2"
+                android:layout_centerHorizontal="true">
+
+                <CheckBox
+                    android:id="@+id/checkbox"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_centerInParent="true"
+                    android:layout_toRightOf="@+id/checkbox"
+                    android:text="Remember me"
+                    android:textColor="@color/black" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/login"
+                android:layout_width="230dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/forgot"
+                android:layout_centerHorizontal="true"
+                >
+
+                <Button
+                    android:id="@+id/btnLogin"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:text="Login"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/or"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_below="@+id/login"
+                android:layout_centerHorizontal="true"
+
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="6dp"
+                    android:text="or"
+                    android:textAlignment="center"
+                    android:textSize="24dp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/face"
+                android:layout_width="175dp"
+                android:layout_marginLeft="10dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/or"
+                android:layout_marginTop="10dp"
+                android:background="#2146A5"
+
+                >
+
+                <ImageView
+                    android:id="@+id/fb"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/facebook" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="30dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@+id/fb"
+                    android:text="Facebook"
+                    android:textColor="@color/white"
+                    android:textSize="20dp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="175dp"
+                android:layout_height="50dp"
+                android:layout_below="@+id/or"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="10dp"
+                android:background="#1A74C5"
+                android:layout_toRightOf="@+id/face">
+
+                <ImageView
+                    android:id="@+id/TT"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/twitter" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="30dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@+id/TT"
+                    android:text="Twitter"
+                    android:textColor="@color/white"
+                    android:textSize="20dp" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/rg"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/face"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:text="Register" />
+            <TextView
+                android:id="@+id/fg"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@+id/rg"
+                android:text="Forgot your password?"
+                android:layout_marginTop="10dp"
+                android:textAlignment="center"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@+id/fg"
+                android:layout_marginTop="30dp"
+                android:text="Nguyễn Văn Chương - 2050531200114"
+                android:textAlignment="center"
+                android:textStyle="bold"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
