@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KTGK_ListView</string>
+
+    <string name="navigation_drawer_open">Open_navigation drawer</string>
+    <string name="navigation_drawer_close">Close_navigation drawer</string>
+
+</resources>

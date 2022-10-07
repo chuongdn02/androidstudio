@@ -4,8 +4,12 @@
 
     <gradient
         android:startColor="#7EC6C4"
-        android:endColor="#07628C"
-        >
+        android:centerColor="@color/white"
+        android:endColor="#07628C">
     </gradient>
+    <corners android:topLeftRadius="50dp"
+        android:topRightRadius="50dp"></corners>
+
+
 
 </shape>

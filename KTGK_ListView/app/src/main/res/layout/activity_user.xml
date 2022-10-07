@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserActivity">
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:background="#71BCF8"
+        android:layout_marginTop="50dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="30dp"
+        >
+
+
+        <TextView
+            android:id="@+id/nameProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="KEVIN DE BRUYNE"
+            android:textSize="26dp"
+            android:textStyle="bold" />
+<!--day of birth >-->
+        <TextView
+            android:id="@+id/a"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nameProfile"
+            android:layout_marginLeft="25dp"
+            android:text="Date of birth:" />
+        <TextView
+            android:id="@+id/dob"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nameProfile"
+            android:text="28/06/1991"
+            android:layout_toRightOf="@+id/a"
+            android:layout_marginLeft="5dp"/>
+<!--nation >-->
+        <TextView
+            android:id="@+id/b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/a"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="2dp"
+            android:text="Nationality:" />
+
+        <TextView
+            android:id="@+id/Nation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/a"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/b"
+            android:text="Belgium" />
+<!--height >-->
+        <TextView
+            android:id="@+id/c"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/b"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="2dp"
+            android:text="Height:" />
+        <TextView
+            android:id="@+id/height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/b"
+            android:text="1.81 m"
+            android:layout_toRightOf="@+id/c"
+            android:layout_marginLeft="5dp"/>
+<!--weight >-->
+        <TextView
+            android:id="@+id/d"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="2dp"
+            android:text="Weight:" />
+        <TextView
+            android:id="@+id/weight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/c"
+            android:text="70 kg"
+            android:layout_toRightOf="@+id/d"
+            android:layout_marginLeft="5dp"/>
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/kevin" />
+
+    <TableLayout
+
+        android:background="@drawable/border"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profile_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp">
+
+        <TextView
+
+            android:background="@drawable/border1"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:text="Professional football career"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TableRow>
+
+            <TextView
+                android:gravity="center"
+                android:background="@drawable/border"
+                android:layout_weight="30"
+                android:text="year" />
+
+            <TextView
+                android:gravity="center"
+                android:background="@drawable/border"
+                android:layout_weight="40"
+                android:text="team" />
+
+            <TextView
+                android:background="@drawable/border"
+                android:layout_weight="20"
+                android:gravity="center"
+                android:text="match" />
+
+            <TextView
+                android:background="@drawable/border"
+                android:layout_weight="20"
+                android:gravity="center"
+                android:text="goals" />
+
+        </TableRow>
+
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/year"
+                android:layout_weight="30"
+                android:text="year" />
+
+            <TextView
+                android:id="@+id/team"
+                android:layout_weight="40"
+                android:text="team" />
+
+            <TextView
+                android:id="@+id/match"
+                android:layout_weight="20"
+                android:gravity="center"
+                android:text="match" />
+
+            <TextView
+                android:id="@+id/goal"
+                android:layout_weight="20"
+                android:gravity="center"
+                android:text="goals" />
+        </TableRow>
+
+
+    </TableLayout>
+
+<!--    <TextView-->
+<!--        android:id="@+id/nameProfile"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/profile_image"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:text="name"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="28dp"-->
+<!--        android:textStyle="bold"/>-->
+<!--    <RelativeLayout-->
+<!--        android:layout_below="@+id/nameProfile"-->
+<!--        android:id="@+id/relative_name"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:clickable="true"-->
+<!--        android:focusable="true"-->
+
+<!--        >-->
+
+
+<!--        <TextView-->
+<!--            android:id="@+id/phoneProfile"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:text="phone"-->
+<!--            android:textSize="22dp" />-->
+
+<!--        <TextView-->
+
+<!--            android:id="@+id/countryProfile"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_below="@+id/phoneProfile"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:text="country"-->
+<!--            android:textSize="22dp" />-->
+
+
+<!--    </RelativeLayout>-->
+
+
+</RelativeLayout>
