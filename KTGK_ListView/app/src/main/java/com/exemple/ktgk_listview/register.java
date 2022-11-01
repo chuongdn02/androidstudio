@@ -31,6 +31,7 @@ public class register extends AppCompatActivity {
         cfirm = (EditText) findViewById(R.id.cf);
 
 
+
         button.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
@@ -41,6 +42,7 @@ public class register extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
+
                     if(username.getText().toString().equals("") || password.getText().toString().equals("") || cfirm.getText().toString().equals("") ) {
                         Toast.makeText(register.this, "Please enter all fields", Toast.LENGTH_SHORT).show();
                     } else {
