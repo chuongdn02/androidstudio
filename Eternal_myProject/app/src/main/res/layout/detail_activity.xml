@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Detail">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:id="@+id/img_lap"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/boder"
+            android:scaleType="centerCrop"
+            android:src="@drawable/rogstrix"></ImageView>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:id="@+id/name_lap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dell alien"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/price_lap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name_lap"
+            android:text="20.000.000 $"
+            android:textColor="#ED2C2C"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/title_lap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/price_lap"
+            android:text="20.000.000 $"
+
+            android:textSize="15dp" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            >
+            <ImageView
+                android:id="@+id/hang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/hang"/>
+
+
+            <TextView
+                android:layout_toRightOf="@+id/hang"
+                android:id="@+id/left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hang: "
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:id="@+id/manu_lap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/left"
+                android:text="Hang"
+                android:textSize="18dp" />
+
+
+        </RelativeLayout>
+
+
+
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
