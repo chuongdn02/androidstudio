@@ -10,13 +10,11 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.google.android.material.textfield.TextInputEditText;
-
 public class register extends AppCompatActivity {
     TextView textView;
     Button button;
     EditText username,  password, cfirm;
-    User newUser;
+    Singer newUser;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,82 +1,142 @@
 [
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/drawable-v24_banner.jpeg.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/drawable-v24/banner.jpeg"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.exemple.editlistview.app-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "com.exemple.editlistview.app-main-31:/layout/activity_main.xml"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_backk.png.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/backk.png"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/xml/data_extraction_rules.xml"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_pinkl.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/pinkl.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable-v24_banner.jpeg.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable-v24/banner.jpeg"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/layout_activity_sign_up.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/layout/activity_sign_up.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/layout/activity_main.xml"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/layout_nghesy.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/layout/nghesy.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/xml_backup_rules.xml.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/xml/backup_rules.xml"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_bodersign.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/bodersign.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/drawable-v24_botimg.jpeg.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/drawable-v24/botimg.jpeg"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/layout_list_item.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/layout/list_item.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "com.exemple.editlistview.app-merged_res-30:/drawable_img_1.png.flat",
+        "source": "com.exemple.editlistview.app-main-32:/drawable/img_1.png"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_blue.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/blue.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_whi.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/whi.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_fb.png.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/fb.png"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/layout_activity_sign_in.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/layout/activity_sign_in.xml"
     },
     {
-        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_bakc.png.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/bakc.png"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_ney.jpeg.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/ney.jpeg"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable_c.png.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable/c.png"
+    },
+    {
+        "merged": "com.exemple.editlistview.app-merged_res-30:/drawable_img_2.png.flat",
+        "source": "com.exemple.editlistview.app-main-32:/drawable/img_2.png"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.exemple.editlistview.app-merged_res-30:/drawable_img.png.flat",
+        "source": "com.exemple.editlistview.app-main-32:/drawable/img.png"
+    },
+    {
+        "merged": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-merged_res-30:/drawable-v24_botimg.jpeg.flat",
+        "source": "/Users/Chuong/.gradle/daemon/7.3.3/com.exemple.editlistview.app-main-32:/drawable-v24/botimg.jpeg"
     }
 ]

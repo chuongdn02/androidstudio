@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.exemple.editlistview.app-mergeDebugResources-27:/values-bs/values-bs.xml",
+            "outputFile": "com.exemple.editlistview.app-mergeDebugResources-28:/values-bs/values-bs.xml",
             "map": [
                 {
                     "source": "/Users/Chuong/.gradle/caches/transforms-3/b6f52d92dea29c0a7f49d4078033a89a/transformed/material-1.6.1/res/values-bs/values-bs.xml",

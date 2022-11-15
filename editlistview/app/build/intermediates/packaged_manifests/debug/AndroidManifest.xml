@@ -22,7 +22,13 @@
         android:testOnly="true"
         android:theme="@style/Theme.Editlistview" >
         <activity
+            android:name="com.exemple.editlistview.signUp"
+            android:exported="false" />
+        <activity
             android:name="com.exemple.editlistview.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.exemple.editlistview.signIn"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

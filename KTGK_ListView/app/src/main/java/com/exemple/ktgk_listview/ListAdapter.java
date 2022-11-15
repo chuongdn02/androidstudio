@@ -14,9 +14,9 @@ import androidx.annotation.Nullable;
 import java.util.ArrayList;
 
 
-public class ListAdapter extends ArrayAdapter<User> {
+public class ListAdapter extends ArrayAdapter<Singer> {
 
-    public ListAdapter(Context context, ArrayList<User> userArrayList){
+    public ListAdapter(Context context, ArrayList<Singer> userArrayList){
         super(context,R.layout.list_item,userArrayList);
 
     }
@@ -25,7 +25,7 @@ public class ListAdapter extends ArrayAdapter<User> {
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
 
-        User user= getItem(position);
+        Singer user= getItem(position);
 
         if (convertView == null){
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.list_item,parent,false);

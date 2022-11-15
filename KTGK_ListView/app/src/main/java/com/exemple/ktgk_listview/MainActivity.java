@@ -1,22 +1,14 @@
 package com.exemple.ktgk_listview;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
-import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 
 import com.exemple.ktgk_listview.databinding.ActivityMainBinding;
-import com.google.android.material.navigation.NavigationView;
 
 import java.util.ArrayList;
 
@@ -72,9 +64,9 @@ public class MainActivity extends AppCompatActivity  {
                 "16\n0\n10\n13\n58","24\n9\n8",
                 "107\n68\n77","15\n96\n48\n25\n21",
                 "3\n5\n36\n110","82\n65\n20\n1\n0\n14\n13\n5"};
-        ArrayList<User> userArrayList = new ArrayList<>();
+        ArrayList<Singer> userArrayList = new ArrayList<>();
         for(int i=0 ; i< imageId.length; i++){
-            User user = new User(name[i],lastMessage[i],lastTime[i],clb[i],country[i],wei[i],hei[i],dob[i],year[i],team[i],match[i],goal[i],imageId[i]);
+            Singer user = new Singer(name[i],lastMessage[i],lastTime[i],clb[i],country[i],wei[i],hei[i],dob[i],year[i],team[i],match[i],goal[i],imageId[i]);
             userArrayList.add(user);
         }
 

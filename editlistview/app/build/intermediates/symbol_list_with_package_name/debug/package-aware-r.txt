@@ -255,6 +255,10 @@ attr circularflow_defaultAngle
 attr circularflow_defaultRadius
 attr circularflow_radiusInDP
 attr circularflow_viewCenter
+attr civ_border_color
+attr civ_border_overlay
+attr civ_border_width
+attr civ_circle_background_color
 attr clearsTag
 attr clickAction
 attr clockFaceBackgroundColor
@@ -2444,7 +2448,11 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable backk
+drawable bakc
 drawable banner
+drawable blue
+drawable bodersign
 drawable botimg
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -2454,11 +2462,13 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable c
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable fb
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2470,6 +2480,9 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable img
+drawable img_1
+drawable img_2
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2499,6 +2512,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_overlay
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable ney
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -2511,10 +2525,12 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pinkl
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable whi
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2602,6 +2618,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id back
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2613,8 +2630,6 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id btnA
-id btnE
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2696,6 +2711,8 @@ id east
 id edit_query
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
+id edt_password
+id edt_username
 id elastic
 id end
 id endToStart
@@ -2705,6 +2722,8 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id fb
+id fg
 id fill
 id fill_horizontal
 id fill_vertical
@@ -2718,6 +2737,7 @@ id fixed
 id flip
 id floating
 id forever
+id forgot
 id fragment_container_view_tag
 id frost
 id fullscreen_header
@@ -2753,6 +2773,8 @@ id jumpToEnd
 id jumpToStart
 id labeled
 id layout
+id layout1
+id layout2
 id left
 id leftToRight
 id legacy
@@ -2761,7 +2783,7 @@ id line3
 id linear
 id listMode
 id list_item
-id lvProducts
+id login
 id masked
 id match_constraint
 id match_parent
@@ -2829,6 +2851,8 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id newAcc
+id nghedanh
 id noScroll
 id noState
 id none
@@ -2857,18 +2881,19 @@ id percent
 id pin
 id position
 id postLayout
+id profile_pic
 id progress_circular
 id progress_horizontal
+id quocgia
 id radio
 id ratio
+id rcvns
 id rectangles
 id reverseSawtooth
 id right
 id rightToLeft
 id right_icon
 id right_side
-id rll
-id rll2
 id rounded
 id row_index_key
 id save_non_transition_alpha
@@ -2900,6 +2925,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signup
 id sin
 id skipCollapsed
 id skipped
@@ -2908,6 +2934,7 @@ id snackbar_action
 id snackbar_text
 id snap
 id snapMargins
+id sosao
 id south
 id spacer
 id special_effects_controller_view_tag
@@ -2946,6 +2973,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id ten
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -2982,11 +3010,13 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id txtE
 id unchecked
 id uniform
 id unlabeled
 id up
+id up_confirm
+id up_pass
+id up_username
 id useLogo
 id vertical_only
 id view_offset_helper
@@ -3099,6 +3129,8 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_sign_in
+layout activity_sign_up
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3115,6 +3147,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout list_item
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3163,6 +3196,7 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout nghesy
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -4402,6 +4436,7 @@ styleable Carousel carousel_backwardTransition carousel_emptyViewsBehavior carou
 styleable CheckedTextView android_checkMark checkMarkCompat checkMarkTint checkMarkTintMode
 styleable Chip android_textAppearance android_textSize android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
 styleable CircularProgressIndicator indicatorDirectionCircular indicatorInset indicatorSize
 styleable ClockFaceView clockFaceBackgroundColor clockNumberTextColor
 styleable ClockHandView clockHandColor materialCircleRadius selectorSize
