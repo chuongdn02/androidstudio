@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126818114423",
+    "project_id": "chuongdn-830c2",
+    "storage_bucket": "chuongdn-830c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126818114423:android:03600fa7fc1a9447af1f72",
+        "android_client_info": {
+          "package_name": "com.exemple.thenternal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126818114423-42s87ofnct0c5ucbp5v0koma5obnuer2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exemple.thenternal",
+            "certificate_hash": "31dc5d6bc7d945fb590928415212ae52905cd530"
+          }
+        },
+        {
+          "client_id": "126818114423-lagjrd5rccvofbap3at82p6f3g1asdo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIaTNc05aJvvPjuJmZrjVaHKoGrEsm7xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126818114423-lagjrd5rccvofbap3at82p6f3g1asdo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
